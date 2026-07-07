@@ -84,11 +84,19 @@
 
 ---
 
+## 📊 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat-pandey21&theme=tokyonight&hide_border=true&area=true" alt="Shashwat's Contribution Graph" width="100%" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashwat-pandey21&show_icons=true&theme=tokyonight&hide_border=true" alt="Shashwat's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-pandey21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Shashwat-pandey21&show_icons=true&theme=tokyonight&hide_border=true" alt="Shashwat's GitHub stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shashwat-pandey21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 <p align="center">

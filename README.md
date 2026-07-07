@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://codolio.com/profile/shashwatpandeyy">
-    <img src="https://codolio-stats-api.vercel.app/api?username=shashwatpandeyy&theme=tokyonight" alt="Codolio Real-Time Stats" />
+    <img src="https://img.shields.io/badge/Codolio-View%20Unified%20Profile-1F2937?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio Profile" />
   </a>
 </p>
 

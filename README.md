@@ -1,83 +1,125 @@
-# 👋 Hi, I'm Shashwat Pandey
+<h1 align="center">Hi 👋, I'm Shashwat Pandey</h1>
+<h3 align="center">Software Engineering Student | Full Stack Developer | Competitive Programmer</h3>
 
-🎓 **B.Tech in Artificial Intelligence & Data Science (2023–2027)**  
-💻 **Full Stack Developer | Backend Enthusiast | Competitive Programmer**
-
-I am a Software Engineering student passionate about building scalable web applications and solving challenging algorithmic problems. I enjoy developing backend systems using Node.js and Express.js while continuously strengthening my Data Structures & Algorithms skills through competitive programming.
+<p align="center">
+  <a href="https://github.com/Shashwat-pandey21">
+    <img src="https://komarev.com/ghpvc/?username=Shashwat-pandey21&label=Profile%20Views&color=6f42c1&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-# 🚀 Tech Stack
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in **Artificial Intelligence & Data Science** (2023–2027)
+- 💻 Passionate about **Software Engineering** and **Backend Development**
+- 🌱 Currently exploring **MERN Stack** and scalable backend architectures
+- 🧩 Strong interest in **Data Structures & Algorithms**
+- 🚀 Always building projects and improving problem-solving skills
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Basic-red?style=for-the-badge)
+![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
 
 # 🧠 Competitive Programming
 
-- ✅ Solved **500+ Coding Problems**
-- ✅ **450+ Problems on LeetCode**
-- 🏆 **LeetCode Contest Rating: 1710**
+🏆 **LeetCode Contest Rating:** **1710**
+
+📈 **500+ Coding Problems Solved**
+
+💯 **450+ Problems on LeetCode**
 
 <p align="center">
+
 <a href="https://leetcode.com/u/shashwatpandey_21/">
-<img src="https://leetcard.jacoblin.cool/shashwatpandey_21?theme=dark&font=Karma&ext=heatmap" width="700"/>
+
+<img src="https://leetcard.jacoblin.cool/shashwatpandey_21?theme=dark&font=Karma&ext=heatmap"/>
+
 </a>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| **Voting Application** | Secure voting platform with authentication, authorization and MongoDB. | Node.js, Express.js, MongoDB, JWT |
-| **URL Shortener** | URL shortening platform with login system, analytics and click tracking. | Node.js, Express.js, MongoDB, EJS |
-| **Bank Management System** | Console-based banking system implementing OOP and file handling. | C++, OOP |
+## 🗳️ Voting Application
+
+> Secure voting platform with authentication and role-based authorization.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `JWT` `bcrypt`
 
 ---
 
-# 📊 GitHub Analytics
+## 🔗 URL Shortener
+
+> URL shortening platform with authentication, analytics and click tracking.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `EJS`
+
+---
+
+## 🏦 Bank Management System
+
+> Console-based banking system implementing Object-Oriented Programming and file handling.
+
+**Tech Stack**
+
+`C++` `OOP` `File Handling`
+
+---
+
+# 📈 GitHub Stats
+
+> If these widgets don't load, simply remove this section temporarily.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shashwat-pandey21&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shashwat-pandey21&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-pandey21&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-pandey21&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shashwat-pandey21&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Shashwat-pandey21&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -85,8 +127,34 @@ I am a Software Engineering student passionate about building scalable web appli
 
 # 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/Shashwat-pandey21
-- 💼 LinkedIn: https://www.linkedin.com/in/shashwat-pandey-21
-- 🧠 LeetCode: https://leetcode.com/u/shashwatpandey_21/
-- 💻 GeeksforGeeks: https://www.geeksforgeeks.org/user/pandeyshasz9ex/
-- 📧 Email: pandeyshashwat510@gmail.com
+<p>
+
+<a href="mailto:pandeyshashwat510@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shashwat-pandey-21">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shashwat-pandey21">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/shashwatpandey_21/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/pandeyshasz9ex/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ "Code. Learn. Build. Repeat."
+
+</h3>

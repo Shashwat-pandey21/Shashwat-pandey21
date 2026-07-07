@@ -54,11 +54,13 @@
 
 ---
 
-## 🧠 Competitive Programming
+## 🧠 Coding Dashboard (All Platforms Combined)
 
-🏆 **LeetCode Contest Rating:** **1710**  
-📈 **500+ Coding Problems Solved**  
-💯 **450+ Problems on LeetCode**  
+<p align="center">
+  <a href="https://codolio.com/profile/shashwatpandeyy">
+    <img src="https://codolio-stats-api.vercel.app/api?username=shashwatpandeyy&theme=tokyonight" alt="Codolio Real-Time Stats" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/shashwatpandey_21/">
